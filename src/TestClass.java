@@ -3,6 +3,4 @@ public class TestClass {
         System.out.println("Git den merhaba!");
 
     }
-    }
-
-
+}
